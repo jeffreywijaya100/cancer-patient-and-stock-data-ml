@@ -3,6 +3,9 @@
 
 ![image](https://github.com/user-attachments/assets/df1708c1-f958-4186-9fb7-8da476e0401b)
 
+Classification Task : cancer_patient.csv
+
+Regression Task: stock_data.xlsx
 
 
 
